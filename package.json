@@ -1,0 +1,15 @@
+{
+  "name": "deo-vector-math",
+  "version": "1.0.0",
+  "description": "my package",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xuandieu1210",
+  "license": "ISC"
+}
