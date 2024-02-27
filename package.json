@@ -7,6 +7,9 @@
     "lib": "lib",
     "test": "tests"
   },
+  "dependencies": {
+    "deotheme": "^1.0.1"
+  },
   "scripts": {
     "test": "test"
   },
